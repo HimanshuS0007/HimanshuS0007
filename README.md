@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
-<h3 align="center">Fullstack Developer | MERN | Android | Chatbot Enthusiast</h3>
+<h3 align="center">Fullstack Developer | MERN | Android | Coding Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Himanshu250625&color=dc143c&style=for-the-badge" alt="Profile Views">
